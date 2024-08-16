@@ -14,8 +14,8 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://twitter.com/yourusername" target="_blank">Twitter</a> • 
   <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a> • 
   <a href="https://github.com/scificoder52" target="_blank">GitHub</a>
