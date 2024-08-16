@@ -1,14 +1,6 @@
 <h1 align="center">👋 Hi, I'm Amit Chaudhary</h1>
 <h3 align="center">🚀 Showcasing my journey through code</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=scificoder52&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-<p align="center">
-  <strong>🌱 Currently Learning:</strong> <em>React.js</em><br>
   <strong>📫 Reach me at:</strong> <a href="mailto:sciak7128@gmail.com">sciak7128@gmail.com</a>
 </p>
 
@@ -44,7 +36,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scificoder52&" alt="GitHub Streak" />
 </p>
-
----
-
-<p align="center">✨ Thanks for visiting my profile! Let's connect and collaborate! ✨</p>
